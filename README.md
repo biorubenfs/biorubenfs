@@ -33,7 +33,6 @@ Hello! I'm Rubén and I am currently working as a backend developer with nodejs,
 - Hiking 🥾
 - Basketball 🏀
 - Reading 📖
-- 
 
 ### 📬 &nbsp;Contact
 
