@@ -26,7 +26,7 @@ Hello! I'm Rubén and I am currently working as a backend developer with nodejs,
 
 ### 👩🏼‍💻 &nbsp;Experience
 
-- 2021 - Currently: Backend Developer at [Usyncro](https://www.usyncro.com/)
+- 2021 - Currently: Backend Developer at [Timestamp](https://www.timestampgroup.com/es)
 
 ### 🚀 &nbsp;Hobbies
 
